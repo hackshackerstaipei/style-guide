@@ -11,3 +11,6 @@ Other - Using a tool like Preview in OS X, you can lay out the Hacks/Hackers log
 For more details, refer to the brand identity guidelines: https://docs.google.com/a/alleyinteractive.com/presentation/d/18RLItzUqKNF4-s-bBTlGxWsyKnUJgryaAbtaLrEl-FI/edit?usp=sharing
 
 For city abbreviations, refer to http://www.abbreviations.com/acronyms/CITIES
+
+Design Guideline / Template
+http://hh-staging.s3-website-us-west-2.amazonaws.com/resources/logos/
